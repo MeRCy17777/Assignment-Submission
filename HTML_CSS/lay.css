@@ -1,0 +1,13 @@
+.second
+{
+    height:300px;
+    width:100%;
+    background-color:black;
+}
+
+.sec
+{
+    width:200px;
+    background-color:grey;
+    display:inline-block;
+} 
